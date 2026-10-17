@@ -1,34 +1,42 @@
-<div align="center">
 
-<details>
-  <!-- width="400" lo hace gigante. Puedes subirlo a 500 o 600 si quieres que ocupe más lugar -->
-  <summary style="cursor: pointer;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Corazón Gigante" width="400" />
-  </summary>
+
+# 🌸 ¡Hola! Soy Ludmila 🌸
   
-  <br>
+Soy estudiante de **Análisis de Sistemas** y desarrolladora en proceso. Me encanta diseñar soluciones y crear sistemas que realmente ayuden a las personas
 
-  # ¡Hola, soy [Nombre]! 👋
+---
 
-  Soy [Profesión o Carrera] y me apasiona [Interés principal]. Me gusta resolver problemas y aprender cosas nuevas todos los días.
+### ⌨️ Languages  
 
-  ### 💻 Tecnologías y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-DDA0DD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
 
-  *   **Lenguajes:** [Lenguaje 1], [Lenguaje 2], [Lenguaje 3]
-  *   **Herramientas:** [Herramienta 1], [Herramienta 2]
-  *   **Intereses:** [Interés 1], [Interés 2]
+### 🛠️ Tools ✨
 
-  ### 📈 Estadísticas en GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-B0E0E6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-E6E6FA?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  </p>
+### 💌 Connect with me ✨
 
-  ### 📬 ¿Cómo contactarme?
+<p align="left">
+  <a href="https://www.instagram.com/ludmi_martinez_4/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @ludmi_martinez_4" />
+  </a>
+</p>
 
-  *   **Email:** [Correo electrónico]
-  *   **LinkedIn:** [Enlace a LinkedIn o Portfolio]
+---
 
-</details>
+### 📊 Mis Estadísticas 📊
+<img align="right" src="https://camo.githubusercontent.com/2fbf5911f004b027e1848f31a152ad53d2ed06e1fbfc4d10b6700dc5cc935924/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" alt="GIF animado" width="350" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ludmila-mart&show_icons=true&bg_color=fff0f5&title_color=d87093&text_color=5a4a5a&icon_color=ff69b4&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+</p>
 
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmila-mart&layout=compact&bg_color=fff0f5&title_color=d87093&text_color=5a4a5a&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</p>
