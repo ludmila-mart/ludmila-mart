@@ -1,9 +1,9 @@
 <div align="center">
 
 <details>
-  <!-- Tamaño del corazón: Cambia width="200" si lo quieres más grande o más chico -->
+  <!-- width="400" lo hace gigante. Puedes subirlo a 500 o 600 si quieres que ocupe más lugar -->
   <summary style="cursor: pointer;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Corazón" width="200" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Corazón Gigante" width="400" />
   </summary>
   
   <br>
@@ -21,8 +21,7 @@
   ### 📈 Estadísticas en GitHub
 
   <p align="center">
-    <!-- RECUERDA: Cambiar "TU_USUARIO" por el usuario real de GitHub -->
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
   </p>
 
   ### 📬 ¿Cómo contactarme?
