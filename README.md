@@ -1,8 +1,8 @@
 
 
-# 🌸 ¡Hola! Soy Ludmila 🌸
+# 🌸 Hi! I'm Ludmila 🌸
   
-Soy estudiante de **Análisis de Sistemas** y desarrolladora en proceso. Me encanta diseñar soluciones y crear sistemas que realmente ayuden a las personas
+I am a **Systems Analysis** student and an aspiring developer. I love designing solutions and creating systems that truly help people 🎀
 
 ---
 
@@ -31,12 +31,14 @@ Soy estudiante de **Análisis de Sistemas** y desarrolladora en proceso. Me enca
 
 ---
 
-### 📊 Mis Estadísticas 📊
-<img align="right" src="https://camo.githubusercontent.com/2fbf5911f004b027e1848f31a152ad53d2ed06e1fbfc4d10b6700dc5cc935924/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" alt="GIF animado" width="350" />
+### 📊 My GitHub Stats 📊
+
+<img align="right" src="https://camo.githubusercontent.com/2fbf5911f004b027e1848f31a152ad53d2ed06e1fbfc4d10b6700dc5cc935924/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" alt="Animated GIF" width="350" />
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ludmila-mart&show_icons=true&bg_color=fff0f5&title_color=d87093&text_color=5a4a5a&icon_color=ff69b4&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ludmila-mart&show_icons=true&bg_color=fff0f5&title_color=d87093&text_color=5a4a5a&icon_color=ff69b4&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmila-mart&layout=compact&bg_color=fff0f5&title_color=d87093&text_color=5a4a5a&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmila-mart&layout=compact&bg_color=fff0f5&title_color=d87093&text_color=5a4a5a&hide_border=true&locale=en" alt="Top Languages" />
 </p>
